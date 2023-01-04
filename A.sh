@@ -1,0 +1,1 @@
+git config --global core.excludesFile '/A/gt/.gitignore'
